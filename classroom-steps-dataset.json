@@ -1,0 +1,3707 @@
+[
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "E-003",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "E-010",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "E-011",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "E-012",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "E-100",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "E-215",
+        "steps_between": 28
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-C200",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-E220",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-N219",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-N220",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-W242",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-W243",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "FF-W244",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "GF-C109",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "GF-E101",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "GF-E121",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "GF-W100",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "GF-W118",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-501",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-502",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-503",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-504",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-505",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-506",
+        "steps_between": 81
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-507",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "H-509",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "LG-C001",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "LG-C025",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "LG09",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "LG26",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "LG31",
+        "steps_between": 49
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "SFCL",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "W-110",
+        "steps_between": 29
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "W-111",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "W-114",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "W-121",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "W-234",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "CPE HALL",
+        "classroom2": "W-321",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "E-010",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "E-011",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "E-012",
+        "steps_between": 21
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "E-100",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "E-215",
+        "steps_between": 52
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-C200",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-E220",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-N219",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-N220",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-W242",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-W243",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "FF-W244",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "GF-C109",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "GF-E101",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "GF-E121",
+        "steps_between": 28
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "GF-W100",
+        "steps_between": 29
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "GF-W118",
+        "steps_between": 83
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-501",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-502",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-503",
+        "steps_between": 65
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-504",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-505",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-506",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-507",
+        "steps_between": 80
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "H-509",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "LG-C001",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "LG-C025",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "LG09",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "LG26",
+        "steps_between": 49
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "LG31",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "SFCL",
+        "steps_between": 89
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "W-110",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "W-111",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "W-114",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "W-121",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "W-234",
+        "steps_between": 80
+    },
+    {
+        "classroom1": "E-003",
+        "classroom2": "W-321",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "E-011",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "E-012",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "E-100",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "E-215",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-C200",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-E220",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-N219",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-N220",
+        "steps_between": 86
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-W242",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-W243",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "FF-W244",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "GF-C109",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "GF-E101",
+        "steps_between": 95
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "GF-E121",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "GF-W100",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "GF-W118",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-501",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-502",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-503",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-504",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-505",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-506",
+        "steps_between": 32
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-507",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "H-509",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "LG-C001",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "LG-C025",
+        "steps_between": 54
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "LG09",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "LG26",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "LG31",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "SFCL",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "W-110",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "W-111",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "W-114",
+        "steps_between": 61
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "W-121",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "W-234",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "E-010",
+        "classroom2": "W-321",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "E-012",
+        "steps_between": 75
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "E-100",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "E-215",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-C200",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-E220",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-N219",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-N220",
+        "steps_between": 82
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-W242",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-W243",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "FF-W244",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "GF-C109",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "GF-E101",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "GF-E121",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "GF-W100",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "GF-W118",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-501",
+        "steps_between": 73
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-502",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-503",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-504",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-505",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-506",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-507",
+        "steps_between": 32
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "H-509",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "LG-C001",
+        "steps_between": 89
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "LG-C025",
+        "steps_between": 61
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "LG09",
+        "steps_between": 61
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "LG26",
+        "steps_between": 45
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "LG31",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "SFCL",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "W-110",
+        "steps_between": 45
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "W-111",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "W-114",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "W-121",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "W-234",
+        "steps_between": 26
+    },
+    {
+        "classroom1": "E-011",
+        "classroom2": "W-321",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "E-100",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "E-215",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-C200",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-E220",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-N219",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-N220",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-W242",
+        "steps_between": 45
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-W243",
+        "steps_between": 80
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "FF-W244",
+        "steps_between": 49
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "GF-C109",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "GF-E101",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "GF-E121",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "GF-W100",
+        "steps_between": 23
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "GF-W118",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-501",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-502",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-503",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-504",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-505",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-506",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-507",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "H-509",
+        "steps_between": 43
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "LG-C001",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "LG-C025",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "LG09",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "LG26",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "LG31",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "SFCL",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "W-110",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "W-111",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "W-114",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "W-121",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "W-234",
+        "steps_between": 49
+    },
+    {
+        "classroom1": "E-012",
+        "classroom2": "W-321",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "E-215",
+        "steps_between": 29
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-C200",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-E220",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-N219",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-N220",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-W242",
+        "steps_between": 28
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-W243",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "FF-W244",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "GF-C109",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "GF-E101",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "GF-E121",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "GF-W100",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "GF-W118",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-501",
+        "steps_between": 50
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-502",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-503",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-504",
+        "steps_between": 88
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-505",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-506",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-507",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "H-509",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "LG-C001",
+        "steps_between": 81
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "LG-C025",
+        "steps_between": 54
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "LG09",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "LG26",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "LG31",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "SFCL",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "W-110",
+        "steps_between": 86
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "W-111",
+        "steps_between": 45
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "W-114",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "W-121",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "W-234",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "E-100",
+        "classroom2": "W-321",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-C200",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-E220",
+        "steps_between": 28
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-N219",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-N220",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-W242",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-W243",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "FF-W244",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "GF-C109",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "GF-E101",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "GF-E121",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "GF-W100",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "GF-W118",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-501",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-502",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-503",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-504",
+        "steps_between": 80
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-505",
+        "steps_between": 89
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-506",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-507",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "H-509",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "LG-C001",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "LG-C025",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "LG09",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "LG26",
+        "steps_between": 29
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "LG31",
+        "steps_between": 29
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "SFCL",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "W-110",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "W-111",
+        "steps_between": 73
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "W-114",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "W-121",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "W-234",
+        "steps_between": 83
+    },
+    {
+        "classroom1": "E-215",
+        "classroom2": "W-321",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "FF-E220",
+        "steps_between": 30
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "FF-N219",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "FF-N220",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "FF-W242",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "FF-W243",
+        "steps_between": 89
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "FF-W244",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "GF-C109",
+        "steps_between": 65
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "GF-E101",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "GF-E121",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "GF-W100",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "GF-W118",
+        "steps_between": 23
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-501",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-502",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-503",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-504",
+        "steps_between": 14
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-505",
+        "steps_between": 82
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-506",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-507",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "H-509",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "LG-C001",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "LG-C025",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "LG09",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "LG26",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "LG31",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "SFCL",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "W-110",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "W-111",
+        "steps_between": 88
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "W-114",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "W-121",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "W-234",
+        "steps_between": 21
+    },
+    {
+        "classroom1": "FF-C200",
+        "classroom2": "W-321",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "FF-N219",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "FF-N220",
+        "steps_between": 14
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "FF-W242",
+        "steps_between": 26
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "FF-W243",
+        "steps_between": 81
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "FF-W244",
+        "steps_between": 23
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "GF-C109",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "GF-E101",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "GF-E121",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "GF-W100",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "GF-W118",
+        "steps_between": 88
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-501",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-502",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-503",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-504",
+        "steps_between": 32
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-505",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-506",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-507",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "H-509",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "LG-C001",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "LG-C025",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "LG09",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "LG26",
+        "steps_between": 81
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "LG31",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "SFCL",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "W-110",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "W-111",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "W-114",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "W-121",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "W-234",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "FF-E220",
+        "classroom2": "W-321",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "FF-N220",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "FF-W242",
+        "steps_between": 61
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "FF-W243",
+        "steps_between": 75
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "FF-W244",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "GF-C109",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "GF-E101",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "GF-E121",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "GF-W100",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "GF-W118",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-501",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-502",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-503",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-504",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-505",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-506",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-507",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "H-509",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "LG-C001",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "LG-C025",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "LG09",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "LG26",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "LG31",
+        "steps_between": 86
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "SFCL",
+        "steps_between": 88
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "W-110",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "W-111",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "W-114",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "W-121",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "W-234",
+        "steps_between": 89
+    },
+    {
+        "classroom1": "FF-N219",
+        "classroom2": "W-321",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "FF-W242",
+        "steps_between": 30
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "FF-W243",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "FF-W244",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "GF-C109",
+        "steps_between": 43
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "GF-E101",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "GF-E121",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "GF-W100",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "GF-W118",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-501",
+        "steps_between": 88
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-502",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-503",
+        "steps_between": 82
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-504",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-505",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-506",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-507",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "H-509",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "LG-C001",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "LG-C025",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "LG09",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "LG26",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "LG31",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "SFCL",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "W-110",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "W-111",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "W-114",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "W-121",
+        "steps_between": 86
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "W-234",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "FF-N220",
+        "classroom2": "W-321",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "FF-W243",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "FF-W244",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "GF-C109",
+        "steps_between": 65
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "GF-E101",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "GF-E121",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "GF-W100",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "GF-W118",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-501",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-502",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-503",
+        "steps_between": 52
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-504",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-505",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-506",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-507",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "H-509",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "LG-C001",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "LG-C025",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "LG09",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "LG26",
+        "steps_between": 61
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "LG31",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "SFCL",
+        "steps_between": 81
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "W-110",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "W-111",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "W-114",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "W-121",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "W-234",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "FF-W242",
+        "classroom2": "W-321",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "FF-W244",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "GF-C109",
+        "steps_between": 49
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "GF-E101",
+        "steps_between": 45
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "GF-E121",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "GF-W100",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "GF-W118",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-501",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-502",
+        "steps_between": 87
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-503",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-504",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-505",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-506",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-507",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "H-509",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "LG-C001",
+        "steps_between": 43
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "LG-C025",
+        "steps_between": 95
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "LG09",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "LG26",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "LG31",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "SFCL",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "W-110",
+        "steps_between": 50
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "W-111",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "W-114",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "W-121",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "W-234",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "FF-W243",
+        "classroom2": "W-321",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "GF-C109",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "GF-E101",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "GF-E121",
+        "steps_between": 43
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "GF-W100",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "GF-W118",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-501",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-502",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-503",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-504",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-505",
+        "steps_between": 13
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-506",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-507",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "H-509",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "LG-C001",
+        "steps_between": 73
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "LG-C025",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "LG09",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "LG26",
+        "steps_between": 89
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "LG31",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "SFCL",
+        "steps_between": 87
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "W-110",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "W-111",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "W-114",
+        "steps_between": 29
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "W-121",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "W-234",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "FF-W244",
+        "classroom2": "W-321",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "GF-E101",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "GF-E121",
+        "steps_between": 81
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "GF-W100",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "GF-W118",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-501",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-502",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-503",
+        "steps_between": 54
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-504",
+        "steps_between": 82
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-505",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-506",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-507",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "H-509",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "LG-C001",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "LG-C025",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "LG09",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "LG26",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "LG31",
+        "steps_between": 54
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "SFCL",
+        "steps_between": 32
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "W-110",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "W-111",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "W-114",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "W-121",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "W-234",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "GF-C109",
+        "classroom2": "W-321",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "GF-E121",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "GF-W100",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "GF-W118",
+        "steps_between": 95
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-501",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-502",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-503",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-504",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-505",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-506",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-507",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "H-509",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "LG-C001",
+        "steps_between": 14
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "LG-C025",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "LG09",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "LG26",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "LG31",
+        "steps_between": 52
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "SFCL",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "W-110",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "W-111",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "W-114",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "W-121",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "W-234",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "GF-E101",
+        "classroom2": "W-321",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "GF-W100",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "GF-W118",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-501",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-502",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-503",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-504",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-505",
+        "steps_between": 21
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-506",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-507",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "H-509",
+        "steps_between": 78
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "LG-C001",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "LG-C025",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "LG09",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "LG26",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "LG31",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "SFCL",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "W-110",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "W-111",
+        "steps_between": 30
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "W-114",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "W-121",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "W-234",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "GF-E121",
+        "classroom2": "W-321",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "GF-W118",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-501",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-502",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-503",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-504",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-505",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-506",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-507",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "H-509",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "LG-C001",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "LG-C025",
+        "steps_between": 33
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "LG09",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "LG26",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "LG31",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "SFCL",
+        "steps_between": 44
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "W-110",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "W-111",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "W-114",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "W-121",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "W-234",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "GF-W100",
+        "classroom2": "W-321",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-501",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-502",
+        "steps_between": 13
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-503",
+        "steps_between": 80
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-504",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-505",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-506",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-507",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "H-509",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "LG-C001",
+        "steps_between": 13
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "LG-C025",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "LG09",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "LG26",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "LG31",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "SFCL",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "W-110",
+        "steps_between": 45
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "W-111",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "W-114",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "W-121",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "W-234",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "GF-W118",
+        "classroom2": "W-321",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-502",
+        "steps_between": 14
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-503",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-504",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-505",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-506",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-507",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "H-509",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "LG-C001",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "LG-C025",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "LG09",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "LG26",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "LG31",
+        "steps_between": 80
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "SFCL",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "W-110",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "W-111",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "W-114",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "W-121",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "W-234",
+        "steps_between": 50
+    },
+    {
+        "classroom1": "H-501",
+        "classroom2": "W-321",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "H-503",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "H-504",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "H-505",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "H-506",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "H-507",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "H-509",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "LG-C001",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "LG-C025",
+        "steps_between": 61
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "LG09",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "LG26",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "LG31",
+        "steps_between": 57
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "SFCL",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "W-110",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "W-111",
+        "steps_between": 39
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "W-114",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "W-121",
+        "steps_between": 100
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "W-234",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "H-502",
+        "classroom2": "W-321",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "H-504",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "H-505",
+        "steps_between": 13
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "H-506",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "H-507",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "H-509",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "LG-C001",
+        "steps_between": 60
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "LG-C025",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "LG09",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "LG26",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "LG31",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "SFCL",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "W-110",
+        "steps_between": 83
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "W-111",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "W-114",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "W-121",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "W-234",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "H-503",
+        "classroom2": "W-321",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "H-505",
+        "steps_between": 87
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "H-506",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "H-507",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "H-509",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "LG-C001",
+        "steps_between": 62
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "LG-C025",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "LG09",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "LG26",
+        "steps_between": 69
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "LG31",
+        "steps_between": 83
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "SFCL",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "W-110",
+        "steps_between": 86
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "W-111",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "W-114",
+        "steps_between": 87
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "W-121",
+        "steps_between": 19
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "W-234",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "H-504",
+        "classroom2": "W-321",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "H-506",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "H-507",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "H-509",
+        "steps_between": 92
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "LG-C001",
+        "steps_between": 18
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "LG-C025",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "LG09",
+        "steps_between": 40
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "LG26",
+        "steps_between": 74
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "LG31",
+        "steps_between": 13
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "SFCL",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "W-110",
+        "steps_between": 32
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "W-111",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "W-114",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "W-121",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "W-234",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "H-505",
+        "classroom2": "W-321",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "H-507",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "H-509",
+        "steps_between": 26
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "LG-C001",
+        "steps_between": 86
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "LG-C025",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "LG09",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "LG26",
+        "steps_between": 73
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "LG31",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "SFCL",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "W-110",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "W-111",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "W-114",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "W-121",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "W-234",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "H-506",
+        "classroom2": "W-321",
+        "steps_between": 91
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "H-509",
+        "steps_between": 51
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "LG-C001",
+        "steps_between": 23
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "LG-C025",
+        "steps_between": 10
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "LG09",
+        "steps_between": 94
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "LG26",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "LG31",
+        "steps_between": 95
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "SFCL",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "W-110",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "W-111",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "W-114",
+        "steps_between": 77
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "W-121",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "W-234",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "H-507",
+        "classroom2": "W-321",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "LG-C001",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "LG-C025",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "LG09",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "LG26",
+        "steps_between": 15
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "LG31",
+        "steps_between": 55
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "SFCL",
+        "steps_between": 97
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "W-110",
+        "steps_between": 54
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "W-111",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "W-114",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "W-121",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "W-234",
+        "steps_between": 27
+    },
+    {
+        "classroom1": "H-509",
+        "classroom2": "W-321",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "LG-C025",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "LG09",
+        "steps_between": 65
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "LG26",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "LG31",
+        "steps_between": 37
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "SFCL",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "W-110",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "W-111",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "W-114",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "W-121",
+        "steps_between": 23
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "W-234",
+        "steps_between": 96
+    },
+    {
+        "classroom1": "LG-C001",
+        "classroom2": "W-321",
+        "steps_between": 20
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "LG09",
+        "steps_between": 14
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "LG26",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "LG31",
+        "steps_between": 12
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "SFCL",
+        "steps_between": 28
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "W-110",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "W-111",
+        "steps_between": 70
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "W-114",
+        "steps_between": 42
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "W-121",
+        "steps_between": 82
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "W-234",
+        "steps_between": 85
+    },
+    {
+        "classroom1": "LG-C025",
+        "classroom2": "W-321",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "LG26",
+        "steps_between": 58
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "LG31",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "SFCL",
+        "steps_between": 14
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "W-110",
+        "steps_between": 34
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "W-111",
+        "steps_between": 71
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "W-114",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "W-121",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "W-234",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "LG09",
+        "classroom2": "W-321",
+        "steps_between": 49
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "LG31",
+        "steps_between": 54
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "SFCL",
+        "steps_between": 56
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "W-110",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "W-111",
+        "steps_between": 93
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "W-114",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "W-121",
+        "steps_between": 47
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "W-234",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "LG26",
+        "classroom2": "W-321",
+        "steps_between": 76
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "SFCL",
+        "steps_between": 25
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "W-110",
+        "steps_between": 98
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "W-111",
+        "steps_between": 16
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "W-114",
+        "steps_between": 90
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "W-121",
+        "steps_between": 17
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "W-234",
+        "steps_between": 22
+    },
+    {
+        "classroom1": "LG31",
+        "classroom2": "W-321",
+        "steps_between": 63
+    },
+    {
+        "classroom1": "SFCL",
+        "classroom2": "W-110",
+        "steps_between": 31
+    },
+    {
+        "classroom1": "SFCL",
+        "classroom2": "W-111",
+        "steps_between": 59
+    },
+    {
+        "classroom1": "SFCL",
+        "classroom2": "W-114",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "SFCL",
+        "classroom2": "W-121",
+        "steps_between": 36
+    },
+    {
+        "classroom1": "SFCL",
+        "classroom2": "W-234",
+        "steps_between": 48
+    },
+    {
+        "classroom1": "SFCL",
+        "classroom2": "W-321",
+        "steps_between": 46
+    },
+    {
+        "classroom1": "W-110",
+        "classroom2": "W-111",
+        "steps_between": 79
+    },
+    {
+        "classroom1": "W-110",
+        "classroom2": "W-114",
+        "steps_between": 68
+    },
+    {
+        "classroom1": "W-110",
+        "classroom2": "W-121",
+        "steps_between": 72
+    },
+    {
+        "classroom1": "W-110",
+        "classroom2": "W-234",
+        "steps_between": 38
+    },
+    {
+        "classroom1": "W-110",
+        "classroom2": "W-321",
+        "steps_between": 64
+    },
+    {
+        "classroom1": "W-111",
+        "classroom2": "W-114",
+        "steps_between": 41
+    },
+    {
+        "classroom1": "W-111",
+        "classroom2": "W-121",
+        "steps_between": 35
+    },
+    {
+        "classroom1": "W-111",
+        "classroom2": "W-234",
+        "steps_between": 53
+    },
+    {
+        "classroom1": "W-111",
+        "classroom2": "W-321",
+        "steps_between": 24
+    },
+    {
+        "classroom1": "W-114",
+        "classroom2": "W-121",
+        "steps_between": 67
+    },
+    {
+        "classroom1": "W-114",
+        "classroom2": "W-234",
+        "steps_between": 66
+    },
+    {
+        "classroom1": "W-114",
+        "classroom2": "W-321",
+        "steps_between": 99
+    },
+    {
+        "classroom1": "W-121",
+        "classroom2": "W-234",
+        "steps_between": 84
+    },
+    {
+        "classroom1": "W-121",
+        "classroom2": "W-321",
+        "steps_between": 11
+    },
+    {
+        "classroom1": "W-234",
+        "classroom2": "W-321",
+        "steps_between": 93
+    }
+]
