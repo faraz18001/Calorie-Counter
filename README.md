@@ -90,4 +90,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-This README provides an overview of your project, installation instructions, usage guidelines, a visual representation of the project structure using a Mermaid mind map, and other relevant information. You can adjust the content as needed to better fit your project's specifics or add any additional sections you feel are necessary.
